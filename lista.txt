@@ -1,14 +1,12 @@
 ID|Nome|CPF|Endereco|
 
-|1|Pedro|15415|R eee| 
-|1|PEdro |text|1312| 
-|1|pedro|1231231|asdasd| 
-|1|pedro|12312|asdasd| 
-|1|pedro|123123|adsasd| 
-|1|pedro|123123|wedsa| 
-|1|pedro|444|tes| 
-|1|1|1|1| 
-|1|a|a|a| 
-|1|1|1|1| 
-|1|a|a|a| 
-undefinedundefinedundefinedundefined
+|0|1|1|1| 
+|0|0|0|0| 
+|0|1|1|1| 
+|0|0|0|0| 
+|0|1|1|1| 
+|0|3|3|3| 
+|0|1|1|1| 
+|0|1|1|1| 
+|0|1|11|1| 
+|0|1|1|1| 
